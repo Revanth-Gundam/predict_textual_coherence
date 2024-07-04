@@ -1,5 +1,4 @@
 # Textual Coherence
-## Names: Advaith Malladi
 
 ### Directory Structure 
 
